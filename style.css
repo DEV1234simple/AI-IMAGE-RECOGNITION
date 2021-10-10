@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    text-align: center;
+    text-decoration-color: yellow;
+}
+.title{
+    width: 100%;
+}
+#camera{
+    border:2px dotted salmon ;
+width:400px ;
+height:350px;
+border-radius:80px;
+}
